@@ -6,7 +6,7 @@
 #
 # Requirements: mailutils
 #
-# Usage: ./disk-usage-check.sh [partition name] [mail] & - by adding ampersand script will run as background proces
+# Usage: ./disk-usage-check.sh [partition name] [mail] & - by adding ampersand script will run as background process
 #
 #########################
 
